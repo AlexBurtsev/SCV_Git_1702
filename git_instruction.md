@@ -13,3 +13,4 @@
 ```
 git config --global user.name "имя пользователя"
 git config --global user.email "почта пользователя"
+```
